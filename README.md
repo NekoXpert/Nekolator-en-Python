@@ -1,4 +1,4 @@
-# nekolator
+# Nekolator
 Calculadora de Promedios en Python
 Software Promedial
 
