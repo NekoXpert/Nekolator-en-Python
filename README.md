@@ -20,7 +20,7 @@ Cuarta Nota un 35 %
 Tu promedio final es: 20.0
 ¡Felicitaciones has Aprobado, ahora si date ese
 gustito!
-Software Creado por Nekosor
+
 
 
 Nekolator Version 1.0
@@ -41,7 +41,7 @@ Cuarta Nota un 35 %
 Tu promedio final es: 19.65
 ¡Felicitaciones has Aprobado, ahora si date ese
 gustito!
-Software Creado por Nekosor
+
 
 
 
@@ -64,7 +64,7 @@ Cuarta Nota un 35 %
 Tu promedio final es: 20.0
 ¡Felicitaciones has Aprobado, ahora si date ese
 gustito!
-Software Creado por Nekosor
+
 
 
 
@@ -87,7 +87,7 @@ Cuarta Nota un 35 %
 Tu promedio final es: 18.049999999999997
 ¡Felicitaciones has Aprobado, ahora si date ese
 gustito!
-Software Creado por Nekosor
+
 
 
 
@@ -109,7 +109,7 @@ Cuarta Nota un 35 %
 Tu promedio final es: 19.5
 ¡Felicitaciones has Aprobado, ahora si date ese
 gustito!
-Software Creado por Nekosor
+
 
 
 Nekolator Version 1.0
@@ -127,15 +127,15 @@ Nuevas Tendencias (4 Creditos)
 Tu promedio final ponderado de ciclo es: 19.62
 ¡Felicitaciones has Aprobado, Verifica si lograste
 una BECA!
-Software Creado por Nekosor
+
 Estudiante del Ciclo I de la carrera de Diseno &
 Desarrollo de Software
 Nekolator Version 1.0
 ///////////////////////////////////
 
-Software Creado por Nekosor
+
 Para el CICLO I de la carrera de Diseño & Desarrollo de Software en CERTUS.
 
-Créditos By Nekosor
+Créditos By FeliNekoDev
 
-**Author: Felipe Reyes { Nekosor ]**
+**Author: Felipe Reyes {]**
